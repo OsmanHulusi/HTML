@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <!-- Benim Hakkımda  -->
+    <h1>Ad:Osman Hulusi</h1>
+   
+    <h1>Soyad:AYDIN</h1>
+    
+    <h2>Hakkımda</h2>
+        
+        <!--  Paragraf 1  -->
+       
+        <p>
+            Ben Hulusi 20 Ağustos 1994 yılında Ankara'da doğdum.Şuan mali müşavirlik bürosunda muhasebeci olarak çalışıyorum.
+            Aynı zamanda yazılım öğrenmeye çalışıyorum.Bir yandan Python dilini öğreniyor bir yandan da HTML-Css-Java Script alanında ilerlemek için uğraşıyorum.
+        </p>
+            
+        <!--  Paragraf 2  -->  
+            
+        <p>
+            Kendi web sitemi tasarlarken Front-End bölümünde HTML-Css kullanmayı düşünüyorum.Arka planda ise Python ve Java-Script ile web siteme komutlar vermek istiyorum.
+            Bilgisayara komutlar vermek ona bir şeyleri yapmasını söylemek tarifi imkansız müthiş bir his
+        </p>
+                
+        <!--  Paragraf 3  -->   
+                
+        <p>
+            Rap müzik dinlemeyi çok seviyorum ve rap söylemeyi de çok seviyorum, stüdyoda kaydettiğim şarkılarım var 
+            hatta bir tane şarkım zamanında TRT RADYO kanalında çalmıştı.Bu kanalı hazırlarken de şuan rap müzik dinliyorum mesela müzik benim için çok önemli bir tutku.
+        </p>
+
+
+       <img src="https://picsum.photos/200/300" alt="resim">
+
+    
+
+<ol>
+
+
+    <div>
+
+       <h1>Hobilerim</h1>
+            <!--  Sevdiğim Filmler  -->
+        <li>Film</li>
+
+
+            <ul>
+               
+                <li>Korkusuz Korkak  
+                    
+                    <a href="https://www.imdb.com/title/tt0252611/" target="_blank">
+                    IMDB Puanı
+                    </a>
+
+                </li>
+
+
+                <li>Çöpçüler Kralı      
+
+                    <a href="https://www.imdb.com/title/tt0253997/" target="_blank">
+                    IMDB Puanı
+                    </a>
+
+                </li>
+
+
+                <li>Django(Tarantino)
+                    
+                    <a href="https://www.imdb.com/title/tt1853728/" target="_blank">
+                    IMDB Puanı
+                    </a>
+
+                </li>
+            </ul>
+
+    </div>
+            <!--  Sevdiğim Diziler  -->
+
+    <div>
+        <li>Dizi</li>
+            <ul>
+                <li>Kurtlar Vadisi
+                    <a href="https://cdn.dsmcdn.com/ty100/product/media/images/20210409/9/78827195/162066123/1/1_org_zoom.jpg" target="_blank">
+                        Pala
+                    </a>
+                
+                </li>
+                <li>Deli Yürek
+                    <a href="http://i0.wp.com/static.cinemagia.ro/img/db/movie/04/28/34/deli-yurek-354794l.jpg?resize=650,400" target="_blank">
+                        Gençlik
+                    </a>
+                </li>    
+                <li>Behzat Ç. 
+                    <a href="https://i12.haber7.net/haber/arsiv/album/166820110226032032418.jpg" target="_blank">
+                            Dostluk
+                    </a>
+                </li>
+            </ul>
+    </div>
+    
+            <!--  Sevdiğim Kitaplar  -->
+    <div>
+        <li>Kitap</li>
+            <ul>
+                <li>Reader At Work
+                    <a href="https://www.goodreads.com/book/show/20564892-reader-at-work-1" target="_blank">
+                        İngilizce
+                    </a>
+
+                </li>
+                <li>Satranç
+                    <a href="https://www.goodreads.com/ug/book/show/17382979-satran" target="_blank">
+                        Zeka
+                    </a>
+                </li>
+                <li>Hayvan Çiftliği
+                    <a href="https://www.goodreads.com/review/show/932642915" target="_blank">
+                        Hayvanlar Dünyası
+                    </a>
+                </li>
+            </ul>
+</ol>    
+             <!--  DİPNOT  -->    
+        <h1>Kardeş Payı da severek izlediğim bir dizidir</h1>
+            <h2>Kardeş Payı</h2>
+        <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxQUExQTFBMWFhYWGRYWFhYZGBYZFhYWFhYYGBkWFhYaHysiGhwoIBYWIzQjKSwuMTExGiE3PDcwOyswMS4BCwsLDw4PHRERHDAkISgwMDAuLjIwMTAxMDAwMTAwMC4wMDAwLjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMP/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAEBQMGAAIHAf/EAEQQAAIBAwMBBQUFBgQFAwUBAAECAwAEEQUSITEGE0FRYSIycYGRBxRCobEjUmJywdEVgpLhJDNTorJDwvAWc4PD4gj/xAAaAQACAwEBAAAAAAAAAAAAAAACAwABBAUG/8QALREAAgICAQMCBAcAAwAAAAAAAAECEQMhEgQxQVGhInGB4RMUYZGxwdEyQvH/2gAMAwEAAhEDEQA/ADkjC89yi+uE/qRXr3wUe/GvpuQf1alEd4vgAPhFGPzJNaz6iegZ/k0afotKsOg9tRLHh8/yl2/8Ix+tayyt1w5//HMR/wBzgUtimLHlnP8ANKW/JRUkkCn9z596f6VVlpGs02D0AP8ALbqfq7E1p97f95/lIn/646hktV8/9Kn+prz7qvm3+kD/AN1VZdBULOep/wBUsv8AUqKn7j0T6g/q5qG2gXyb6j+1GiEY6H6/7VdkoU3cH8UY/wAv9lNLZYwP/V/0hv0wKc3kPFKLiOqsjIYkXPvsf8v/APVEmIY8fyqG2i5o4pxVWRCi7joWO3yaazQZNT2NoM/1qmyuDkwWDTuMtx+lbiwz0OasVtpinkj5UygsgBwMUFJhuCRSHtSOoqJo66IbVSMMoPxANLrzs3G3u5Q/UfTwqcPQFxOf3AxXttZu/u4Y/ug+38kPLfIGnOraHJF7wyPMdKXC2qcq7inFpkltCVbByrA+oYH9QastrqcrKFm23CjgCVd7Afwy8Ovyal+n3UgAViJFHRZBvAHkpPK/5SKf2cMLj3WiPmvtp/pYhh9TU5eg2CNI+5I2gvEP+nIBPb/LI3x/EAn1rQ6Gh9oIVxz3kDd7GPVoye8j+Z+VMv8ABWIym2QfwHJ+aHDD6UOtoVORlWHiMgj+ooXJ+RtI3imudu39nexD8DjvWUfytiVPj0oe3jtGfdG89jKPFWaSLPlkYdf0omSZjy6hyOjHhx694uCT8c1L98D8SASf/dG5h8J0w/1GKnMviPLO+vUT9osV7D0LphiR6gD9VPxqazntmOYpJLSTxXOIyfVDlP0pVZW8YO6KV4G9TuT4CROcfEUbq13KsTPPHHKoU4lAUkYBPDrxnjoa0QdiJKh+LqeMftYhMn/Ui6kesTdfkTVaa/jMx7uPugXVA8TNE3tSKmXQ+ycZJII8DSXs1HdTQrKl1DbmT2lib7xjafdzIJAufgKw+pPqR4+eM9fnWfq88sbjRp6TBHJyTL8Guo/3LhPMYjlx8Pcb8qli1yEnazGNv3JAUb8+D8jXPYZSBGveltxdmUKxRWA9pUYe4qhQAW6kZ5JrSC7Z3dWYsE27cnOFbPAz4ZBPzpc+uatJXX7Bw6LlVujp1nqEUue7kVsdcH4jPw4PPpUMepwSOYg6s2WGwjk7fewCOcYrn1lPKpDJuDPwxVwoRV3MNxZhnGT8SfWob6Q5DKSH9obskH2sE8jz8fhQ/n3aXH1sJdCndS+X3OnGDHusV9D7S/Q9PkRUF9fmJN7qMZA3bsKMnGWz7o+tc2s9Ul2Ou6Tuxt6tjJJI4jzvx64xROlaZPcMUS5WPrhGjd8lcHOd4HRs/L0504uq5y41QjJ0vCDlyumXzs/rKXMbOmPZdoyVIZWKnG5GHVfX40xqkWPfWVxDbyOskblEG1SoUSd4FKLklCGjwQDghvSrp3f8R/X88VrMhxCMVrcRVrbE5oyQcUgYCWMfNNRBxUFlFzTMLVFoB+61791opq8U1VhUaQwUUsPFbwx0YsPFWQQahHgGkNwaseu8Kaqcj5NUDJhFqtFnFQWq17b5knKj3Vxn4+VVJ0gsat0ER2TPyeg6CmdpYccjmp1A4AqeE0jnZs/Dokhgxijo4+K1gxRMeKOLFTiRd3WbaJ7usUDnPFHYviCyW4YEMAQaqGvaN3Tbl90/lVg1fXwhEcS73P0FarvlQpMoGejA5wfDIqSVoFwsrNslOrA0m7so7IeoJFOdOhPWsrk0Vj70N4Eo4XTHhwJB/GMn5P7w+tAxtipI5wTirjMe4E8tpC/QtEfX20+o9ofQ1D/gDj2gA6/vIdw+eOR8wKZW8GaLit8HIyD5jg1ojjT2xLm1pCiK0xUGsoVgkPhtfIzgHMbj+tWUtn31Dep4b/UP65oLWtPWSGRVLAlTwRk8gg7SOpwT5U6KSYtuyt9gtShe1hhdEZ4Y1QmN/bwBjdkcN5UzPZS3fPdyNk/heR1YZOcKd23w8MUn0HWILeGKGQRmSKNYmYPCpIQY6s6uOmcEcUw/+q7bnqMectsQeM8HvR5+VXKN+CRk12YZc6BENqsksIUYzEQVPXkiQHJ5JyDUMPYtSD3N4WLEFtyxh8AY2j2cflWo7WRujRIxbepXaJIWxuGM4WQnAz4ClsZbL5AUAjYQx3MNoJY8Dbg5HU9Kw58sMcqcU7VvsvJswQnONqTW6Xn/AMHc/Z4KFXfJEfEuglR2JJJyuMZJ5xx8Kkseyg2S96Vl7xlYSQnayhVCgBXyD+I9fxGqtJdvIVMkm4sPEsxOAOQc4UdPDx60eNQmUKyyMNpUcEgMCoYbsdeVkHyqoZsVuXH7obLp8tJc/sxwnYeFg2y5l7zHG8RjHoU2AkZxz+dE6L2Wlt3MweN5PaURtu7tFbbkIwGdx2jJIPl0AFVldXnkEm6VyFkVV56HYXYA9ejJTnSO1IihRJJmMqjDrJsdScno4YMOMdc/CtGGeOUvhjTpe5m6iGSEFylabfsQdqr0/eoHlUw93Ja79xVlAMk3tAjqDnHSr3DMrgMrKwPQggg/Oub6lrCXl5CFG0B4GmIO9Y0gaR90jKMLuLqoB9TV3PZ6zl/ad0h3c5X3T6+ycVsMZyW2jGaMaLihIRROeOtZx57bJg0wwcUsWTaetELfDzoWWmjabNeQg5rz7wDRtmAaDYWgm0pgOlRRRCiFWislFf16DcpAqsDTGrocsKnrULaeh8BUsBwTKbBbFRz5VFoCe+fXNWfWbALDIVHIUn8qp3Za7zuBNDP/AIsPFqaRY45KkSTFBlqmhfOKyWb0NbPJprbJ61V9R1pLcAsefBR1NK17TTyH2QVX6VognViJyV0dDPHWlOt3JC4X61X4dfbhScmn1hAtzEcHDeH9qnL0IoJbZWY3w/s8seM4J9OAOSfIVPb3k/fbO6mYD3iyKFHjxtPs/MmpvuD2zbtjOwOVwDgHnqfnRum3NzI49naCeSeTUUvUJx9HozWtO3hLhRyMLJjpjwb+n0qeyTgVZEtcptIzkYPhkYpNHZlGKnw6fCl5FWxMUuRDcJxxQVojd4KcvDxQaYDijxRT2XklSLLp8fAo4RUDp9wMCmHeitaZlZqYq07upBIDW4oZSIkCG0XOdq588DNa/wCHwk5aCIk/iCKG/IYNHYrwiq5koVajpqiN+5jUuVKgYVDzwfa6dM0ksuyrvuN0XCluIUZQpTA96RV3HJzxnGDirawrxCR0P9vpQcISlya2MU5xjxT0ILnshG7ExzvCDj2NsZC/ysVOPmKF1fSTbxBFWaUMwZpNu/G0HAAjGF94+FWzjxH04/LpWrkjlWx+X+1SWODTVVfp3LjmyJp3ddr7FHi0xhbQKigSuzyzCR9oDPyBnB6DC/KnOlaH93gjV7S3nAUb2REZix5Y5x7XOfCidSul6SxZ/iX2H+PkfpShQQ262utjfuSHYT6Z5RvnRwjGLbXn+iSlKcUpPtfuONOktAStu5tHPWPAVCfVG9n6EUVJpkhOTbWshPO8M0e71K7Dz65NJLnWXUBL+1DjoHC7W/ysPZPyIrInsiMpfTwr/wBPLeyf9NOTEONFRtgKK7sUJZ0aBSmGhdqEWBSOSds8GnuquAKr34qHwTyH207edOLG7IxSSAVYNBtgx5oGMiMYtQIqb/EvWp57NdvSkswxkVHoNUEvqxzRdvqGRVfJ5phbdKqyUM57kMpB8QR9a5ZYymGVkPBViD9TXRnFUfttp5SZZVHEnX+YdfqOaOLvQuaqpLwM4r4cc9aM+87fa8qqmky5ZcmrBcDjrWeceMjTDI5RsD0+cSSPPNzjO0eAApjas1zuCHYq+I458gR4+Z/I0tjtCQUQY3dSeo+VPtI0h8CMMFAHQAn6kmic92VGOqALPRmVvalMjDwxj59TxVn0GYow8vyoq10tIUOTyfeY9aWrcKVPthSCcD08Aap3djklVIuhiDjIxSq/1NYCBJGVB6PwVPzHSkMXbARpguBjxzQS9ojdmTfgR9E6YxjgnyzimVa0J1F02WmLWkb3Wqdpt5Fcs1fvLZtySYXj2DjHPPB+Rq4djtTMqqSeo4oZRdbKUoyeiwz9KT3XnTO5PFK5RmpjlRU42S2V+RTVL1iKTwRUyhTinp2Z2qGVlKT1ppFSmzNMonoGtkJ68NRl68aSrohua8xUXfVustFpENqjm6VuXqKVuKU5FpCXVCcH9PD6VV73qatGqng1W5xzTIbLboGt9Wnh4jkIXxQ+0h+KNkflW512I8vYxM3iUeSNT/kU4B+FeSIMUFJGM0xC2zey6UTLJihLVwKknlFUEL9SfIpSh5pnfOOlLAOaBspIMhNPNIudhzSKI03selAxkR/NqYI4pbK2c1jCoy9V3D7EAHNMbTpQKGioJMVCIOYcVBeaWlxG0b+PIP7reBFbrLkURbAkHHXBx8ccVCNaOWalaSQOyMpDIcHHiB0YHxB61YbCXcin0r1i7bw6AMpIYeI9Tnr41HbjATYPZbBx5bvEelDKSkqYUcbg9O0MbBQDTzTbjZ8T40hUYOaka6I6UnsPTHGv6mBHjzIH161Re0zGR8IxAI5AOBnHjW+var+0VWJwBnzzSlrhpHHssFPGQDwD6/OtOONfEzNlyX8MTXSrIbgPeJ6Dk8+lWzTOyVywQqNqEHk+nUcfHp6VtoKpDseONmcMjAY4POHQk8dM8/CrBHcXDs+5vu8Lt3mxWy6nABG4+6CRnA8Sajm32JHFSKsnZaZpZY5zlI8bdvQ5yR9MmnnZ9BBsjHGCRVgt5I2G1DnHjnJ+ZPU0D9zC3CZIAznnp51Um2Eoxj2HVxHQbQUbPKPMfWh3kqoRKkzFQCiY+lAyy4FSLccUyxfGw9JcURHeUmnucCl76oRQSYUY+paWvR51DLf1VJNVY1vHcMfGgcpJBqMWPpNRraPVPWkwrM1neaVjFjiWFNRB8aIWbIquW55p7ajiixzb7gTgkC6n0NVuUc1ZtSXiqzd9a3Y+xmkRy4xQMh5oiV+KCeTmmgsGZiOlRyyNimccOaye2GKUwkitz3Rz0rITmt9Qiw1ZbrQMiCYhTayal0K0wtxQsZENZqhkNeg15J0qgyKJqnBwKGQ1OW4qFIIilppp7UhVqd6UeKtFsg13Rd5aROrDDjxOOhHr6UhhstqjacqM8HwPiKuGoX8UQ/aSonGfaYDgcE8/GqXrXbC0BwkjPz7YjjznzKsxAz9aqWJy3Ekc0VqTMMvhW27NIdP1WOQsq7lUMdgcgsFPQEjrijjMV5zQyg06YSmmrQZc2EMuCw9sDj/epobcKMClQnycg0db6hjG761e6oikrsOjmYe6Bmi7bTpZj7bkDy6VBb3ydRitLjW8eOMVasKUl5ZadLso4hgNk+dKO2V2E2HnazBN37pIZlz5j2TSm17Qetb9siz2Tt+IFJB6bSCB9BTccuMk36icq5QaXoLp5O9yARuXhkPPTxFB/tF5R2jI/dZsfTNeQ2ElxGJ4GHeIBuToXHgVP7w5HPUAVtb3neZRwUlXhlIIOfUHpXU0cRprZND2ou4+H2yr6ja31H9qcad2xgcgSZib+Llf9Q/rVXvpWTqOKGMiHnxpMsMJjY9TOGrv5nT+9V1yjBgfEEEflSy8GK56LqSE74XZfHAPB+I6Grzot8bmBJGwHOcgdDgkfLpWbJ0rW4mzH1amt6PY1yaZwQ0Paw8805igrO1o1RewKY4qJno69goKdMCs8cactj3KkS2T5NWOz92q9pqA1ZbRfZonBRegJO0DXo4qvX0GTVkuxSe6WtEDOyvXNvS+SDmnl0tLZBzTUCwm3FSzrxWtupHUYolkyKXafYKq7lU1GL2q1hhplqdv40t73FCU2EpxRsD0r76t0usVGEmOQ1eNyKV/fqlhvgaqguQSRg1JuqFDmjILImqouyBafaSvAqC10v0prFCI1JPAAyatIpyKz9pejd7CJ1HtRe9592f7Hn5muWSwVd+1/auS4DQx/s4s8/vNjwbyHpVRbnKnr4HwI/vW/FBqNM5uWac24/Ugt1wRg48j6+FMDfTD2WXP5H6UK8fFH6bMGUBvr4j4UvNGq1Y7p58rV0aR6lzgjB9aKW9HQmvJ9NBHTIPj/wDOhqFdMbwBIoPwbjyQbzcZcWEC5PgxrbJPUk1DHbEdQaZ2CLkZpEnQ+KbCuzunF5ASOBz8cVZtZjDQyL5g1ppZRRxxxWmqT4jIHiKXys0RhxRWuwsxRsHoD3Z/PH6Vc9S0WG6QK+VkQ/s5lxvUHjB/eTOOD8sVVOyEHtufDvAfoBn+tXjUrYqdyfiGOOcH/wCYNddpyhFrvRxoSUcklLas5zq9pJC5t7ge0Pdce64/eU/08Kr13EUPHIrpXagpcL3cg2yAZ8ucdVPnXObotG5jk8Oh8x50Ti1FN+RLfxtR3QOs+Rim2l3bJGArYxnoceP6g/rSWZOciiILgKR+63B9COKkZb2SUbWi+dmu0qyHu5jhxxuPQ+Wau0K1xRJMMD8jXTOwusd9CI2OXj4PmQOhrJ1WLXKP1NfSZ23wl9B9eJxSPUGIp9ddKSamlc6C2dVdiTQnzVstx7NVbQY8VaoBxRvuLmC3dKLk03vKS3VNgIYuuqWSdaYXTUukPNNQLGNsg/C1FAVDFg+A+WKtui2SR2r3PcmaQI7qgALNszhEB/ESPjzXNwqeSVL3S/k35XHHG37Mpl7bg9QflSafTV8Gx8R/an3a3tZJLAqrpN5DcNtKMYwIw2fdZse2pGQQQp58Dg1edXW4i7oWdnDIzbu8ZnWJY8AY6KWbJLdB4Vrjgldcv7Mkssaujkn+DyH3V3Z6bec/AV4NEuDwIJT8I3P9KZQdsr65uo71baBjbCaFEEjAM7lQxBI54UY6Dmr0e1s1pZtd6osULHiK3iyZGODhSxYgsfIcKBknyase6sXKXlI5NqVjJCQsiNGxG4K6lWK5I3bW5xkHn0o9Oz1zHGZpYXSJQGZ39lQpxg5PhyKP7M2Vxqmoi9uowqOuEjxwsKkEevPTJ6lyeBiuj3t3FqFvqNtGQe7722JBBBfuVbI8sM5X4oatQTumC249yn9kbOQb5UtPve1QBHviUZYght0hCngN9al7JaNdAIlyVMs3ezxqCDthXusgsBjhplH+b04YfZLdj/CjP+6jBvPMKEH9KWfYzczTKJ5BGsUNqsFuiE5wsh72RwfxO0YJPTgccUUYLjTI5O7Q9tVUzyWoI72PYWUhhgOMqwOMMp55GeRg81pALs3k8NtJbqbdIg/eLI6lpwWHClTkKg4z+MdaL0iCHUJLHVoW2kRyJIueWVgw7tsdTHJnHxJ8qF7JXmZNbuufZuZIs+lpCq8UUYJFSm2UDV/s3uIbOS/aZZsjv3RUZWCyYZmyT+EMWI8gaDPY+P8Awl9TeZhjOyMKME973S+2T4nnpXXb7XI4biz0+UKUuYZUyem9AgVD4YYGQfHA8ap/2u6cllo0FlFnYZ0jGeuCZZefPnFOUnVCXijfI5SqEgE+IB9efCpbFeSB1Hh6VLIuKBknMTq6+HUeBHiDTqS7mOLk20tPwXHQ7Tfyfd8c9DT6OFVHAwPhyfl4UPZXETwJNF7hHTxDDqrD0P8AelOr6wUDvnG3gDzb+1DLG75R7GnHnjFcJ7l/Brqmo2yzLESAW6n8K+W4+tR3mnkcrVbtk3ks53Bidx8s+OB05pnout9ywhmy0XRW/FGP6r6eH5Vky4rtrTNOHNVRl29Rjppk3AHoPCnGpSYTnyqX7sq8qM0PNJuYZGQMEjzA8PhWWEXKVI3TajG2C6CrIJM5UlWccenB5+VF9m9UuAwLu0qfiQjJI81/iHl49KVa5q5w4LZd2xkcYTA4XHQeFa6XqIQj0rsw8QXajz89Nzlp2XHtZpYmjWaJhvUbhjjch5qqX2lx3MJcn9qg6KRvyCMlR4nGePGrpZujRiSPA4bchHsk8EkeKk8nxHpnmqPrGpLFN3kG5Q3LIeqNnkZHBHiD61e3Hj6F3GOTn6rwVjUbBogGJDxt7kgzg+hHVWHiD5VAI0IPtEZ5Hs5A+YNXRNThmjcSQ/8AMwHK8bjjhiv7w8+tUm/s2hkaJj05VvBlPQilPWx1ej/UmJHGDn1xj8qYaLqrQyK6HlSD8fMH4ikyNREB5q1vTEtcdrudrtr9Zo0kQ8MM/A+INCXy5qm9itfAlNuejAkfzD/b9KuTvmuZlx8JteDtYMvOCb7hOkrirDCeKr1gcU7hl4pT7hzIrs0puRTG6lFLbhqbDsIYpvBSyTrTS7NLJDzTUUNYXB6YNPV7OyzQl7HUZIZCFDKCrRBuCweM5Ktg9RjPGcjFV9VHkKHvtEhmO5gwbGN6OyNjyJU8j41yelzQxyttnQ6jDOapUW3tJqMSRWmnS3CzXMktsHZioO2GRJZJXAOE9mNgM9SR15Ne9tLO2uZI3fVzaoilSkVxHFvJOdzMWx5Dp5+dU2w7KWkW4iIMWBBZyXOGBBxnpkE8jnmvU7K2a9LdPnub9TW/87j8K/2Mn5Sfl0O+yU+kWLSot5C0cTL3bvNG7OzIHaT2ODgkKMDgqfGte0eu9nrmdJbm57148BB/xRjXnPCIu3k9fPjNK00S0HS3h/0Jn8xR0FlEOkUY/wAij+lL/PQjfwvYf5OT/wCyZDpv2lWFtHdyJKJJS8gt4Qk2O7QlYg8hXHtH2yc8AgdRR/Z77Q5Y4Xnv7dER9hiFtGxky24nvVZuPw4Pqc9aliijHRAvwA/StdVZxC/dq7tjA7uNmdd3G4AA9OvyqR6vlSgipdNVuTKzZfaBbW+n3drFBdbpWuzExjQRqJi/d7jvzwpXPHnQfYHtdFp1s4EUk8k4VSq4XuwofqSPOQ0NAJS/dRzb5CdoikjIkLdcbRhiflUmoWU8Ww3Fnt3EhW90sQMkKGAJNaI5ne17/wCmWUF4ft/gT9nnaW7062ZVtxOrtu7syBCjZILDg9QF49BWth2+ureCeH7iv7eSeWRmcjmdiWGMeAIAOfCt7vspIkTTPDPBGi7mdioCr5kZJpt2h0O+aOytILRYnB9udpIMz7I8vuUEtt5PX0pkckm+37qvcDjS+/8ARUu0vay4v7iCaaNIe43BTESWy2CD7R6ggeVS9qu1N3qHdRzPAEhcOu1JEdjjGW5YZ69COtE6Z2cubi6ntO4gaWDBlbcUVcgY9tQck58vA+VKNRt4YbiS3LnvIztYxnvYw/igJCsSDweOoIp3JdmmKantpo8ubqTHJDj12v8A70vvJkI9uEf5WZPyOR+VdHtfshkdEM92kTN7qd3uOSOASXHtfwjPxql9ueycthKsTssgkBaN0/EF94FOSrDIOORg8E84OoNa9rQuKyRd/wA7IOzOqwwkqWkETnDqwVgD4MCpGPpyKm7TgSSYjkiZR4BwMnHhuxnjHj41cey32OrLaxTSzyI8yBzGFXCbslBk85wVzx51XPsw7HR6hNNDOZY1iXcdhUN3gfYVJZWGOufHgc1XKSjxTDeKMpcmt+oktklibd3Zx0IxlWHlkcfOtdRstymSMYx1U9QD0Pw8KuPZXstBJrV1YgymGBHYHfhyymJTuZQPxO3h5VdtB7H2sst6joXjgmWGPLtuA+7xSPubOT7Uh+lU5v8AR+xFj+nuc87La8JIRG3/ADIxjnxUdD8cV5a3hLs3QE4z6eVWLsP2MiGp30FxArLAoKHLgOsjhonxnGdoYHHjmnHZPT7aTTmvDZLcEyXBijRAzNGLh0jRQeMBQOfIUuEVGTkvJolOUoqL8HJ9fuFMu1CCPH0OR/asjPtEj0P1Gav2t9oI3uINMXSltnea1Zs9xkRiZHIKxgjBA6Z8aF+2zYt/aQxoqBYXkYKAoIdmUZA4/wDTNOhPi00Z8mLmnfk37H3nsMp8Ofl0P5E0p7Q6FM0rCOGVx1ykbsPqBVw+xOL2rluMBYh4Hklz/So+3favV7FUaT7gFmkaNFRZ2cLg4LlmAzjHTzpksrUnXkVDp04RUvFlC0fRrpgdtvOysAVYRSFWHUFWxgjHiKM7QdnZngxJE8c0YLxB1ZS6j30GRz5/GuqiC8j0m1Sy2feFhtVBbGwAIgcnd4YB9arn22dokSGG0GWvS8UqbVYBNuQXUnjDe0uOeCc0lSav9TRwjr9Cka9pjQaPbltPMUrOrPeMYcurl3RF2sXxtKDBA92qrCa63/8A6Dk2WNnD0zKDgdMRxFcfD264+HxijgxeVdqC9PcxyLKOqsG+h6V16CDKhh0IBHzGa5AOFrsWgThraBvONP8AxFK6mC0w+lm7ZLFHipjdYFYzVBKM1jcDfzsguL2ohPmop4aHY4ooxoXJm1y9LZDzU9xNS+SXmmJADpGqx9kdKjmEhkBITbjBI67s5x8BVYVqunZGKRbKZogDK3ed0G4Uuq4QMfLdXG6OCnlSatbOp1U3HG2nsrmsdstPjhbu7S67yRHEBeGQK8gXjBc8gErnGcVYe1XZ1hYubZQLiNFkHGTIUwXjIP7wDDjHJFVnXuzuoyPbXeoTW+23kVVSFX3Fp5Y4gOQAfaKfDmnfaLtE1trdrGT+xltmWQHoMSOVk+IIx8Gauw8ONXcVXyOYsk9U3fzEvbbUFi0SGeNQkty0KpIFHeDeTL72Mj2UI+dWXsBb+zIWAYqsa5IHLYbJ+fFIPtuZR/hluoUBrjcFGAAqbV4A8P2lHDWFtdMu5BKiTFJWiG5Q+4JtRlU9cNk9PClOCWWEV2SYxSbxyb7toFmvX0ezjheTvtQu3wgJLJG7sBxnnu03Dj8RPgOjHtD2pi0cWlqkDzyTEljvAc4I7yZ2IO52JJxwODyABSjVtbhvdNtp5p7eG+hC3EQd0TdIoDFQGIOyRcDyBx120xbtXol6ILyeWNZYQSiyM6yRlsblMYOJOR5MPLrWlVWhDu9jHXtOT/FdOmXh2W57wY99I4xsZvVWkAz19vFZ2s0hdRNiVyUhvX7wjwW375XB+LxKv+aqtp32jW02pyXcrmK0ggaCFmRzveSRGd9qqSMhMY8gvQnFLtD+07ura9SOKaSSS4u3t3RAUUSkOhky24Hc7N0q/hRKZePtFuxLprqvSeaK3H8QN0sZx8QrEfGm92pbULcD3Y7e5Yj+J5LdVP0Elcvu+20AttLtu6uWa1ktZZwI+WMMRJC5bkmQqecdKcSfa3F3rypY3ZJjSNdyIuCrSMT7x67l/wBNTnH1JxfoNO2kjWenXNzpwVnnkaSacNuZVkYhpFIHOzIUD8IyeoOeWdmtNuYpIzAkVw29JQuCzMyENj1HH6mmvYjtnLYWksEtnLcJKWbYWAUB8hxjDHa3iMdcnxpP2Uvo45O8TEEsbkw5f2wpJID5wHwDtORz5UnJP4bTtJ78jIQ3T7+DpWtata39xaWd9p17HOTvj6BY92Az95HICUBAyccY6CkmsfZlCmrWkMDSFJFaeYMxZo44mUNhuDtfIQE5IJ8uhc32oagFwtpbO+MCUSNsz592TkD03fOq9Z9q9WglnnCwTSzbd7sGZkRM7Yo13KqoMk4A5JySaNZsfqgHil6M7LCtz98cnYLYRKqKG/aGXdlmK4wFxgDn8PrVV+zjR+51LWeOO+jKn0lDzYA6YG9a5l2SuHhmMwlkjvGWX23UspL+YYYbnn402bV9V3SumoR7pdvebYoRu2rtHITIwOOKp5oLvotYpvtsu32adsFv7m5KWkUKoCTKuDJIWfALHaOu0nx5qLWNTeHS9TuoyUf75KyN6pcxwA+v/LrmumffrOMpbyGItgvJGFLvtLYUk84G40K1xNJG0M91d7HLM0e490zNIZCzREgE7yW+NHDIpK1sGceDp6+Z3a11iKawk1BVCO1sTIfxL3SO+xj5KzuR/NnxoLSdEuBpFrb28wt5hFCWlKhtm7DuAp6kkkVx/UULRbEuXReAyb3RXVlC+2vuk+zQ9tpjOw71pZE9JGcY/wApNFFp+f30DP4X/mzpFj2MaDU7W5uL771NIZC7FEjCpDFweGOcMYh4daN7XdlrC6vDdXGopHiNYhGskKlQpJJLOTkksfAVybW+z8MZyisFP8ROD5YP96X2kaKcd3G4/jVs/UHiiadWCpK+J2fsNqOm2i3kYvoQjTFUZ5ot7RrFGN3GAfbMuMDGMVVNc0vQYbaZortri4RWMO+VmO/8PCBVIBx9KqFulu2Mwbf5SGH0Yf1qxDTIWi9hY1yP+mF6fAetS6pu0UmnaRYO3/2lwdxbR6dcbpopoicJKq7I0YYJIAZSSoIGcjND9v8Attp9391cd6JoZo2YCM/8pivex5PDcYI8yvrVOOmSLkqFb+Uqfy61Ceo3KytjDZGBx481a48qTInJxb4jn7YO28Gom2WBZVWHvS/eKFBL93t2gE9NrdcdapCHJzR3aDAYD4H8qWB6KlF0BblG2qCmnzxXU+yFz/wkHouPoSK5Ihro/Y2f/hY/TcP+40GTaLxJRkWrv68M1Lu/rO/pFGmwqSSg53rSS4oSaerSJZpcPQMjc1vPNQUkvNXRRYlatL03LhVjvriCMDGyNigzkknKkHnNZWV52GSWP4oncnjjNbBJdFkfHe397JyrYaZj7SkMp5zyCAQfAit7TREjkEpklkcAqDI5fAPXGR8frXtZRS6zNJbYEenxp6RrbdnrdJO9WPDglh7TYBOeQuceNE3ukQSsHkjV2A2gnPTk44PqaysqSyT/AOXJhKEK7AOrWEbMA0aEKoCgqPZAGMD6UL/h0eANiYHRSisBnrgEVlZUjmnXcGWOPoShCBgBCPLG0fTkV73uOqEfAAj6Dn8qysorb7gtUeC5XONwz5Hg/Q81LWVlXkio9iKVnlaSQqwwyqw8iAf1rKylKTT0FJA3+ERDlA0Z842ZfyBx+Ve/dpl9ybd6SID/ANy4NZWU15prvv57FRgpfp8iWznlDYeJSMH2kf8A9rAfrXt73DcuhjPmVZcH+ZeKysrV00Vkl6fITnfGF9yOGAkfsbgn0YrIP7ipl+8DhkjkH8Jwfo3FeVlLzZHiyVSfz+xcY/iRuze8t4GX9pGU8OhA8x7vHhQFto0RIMc3yyCf6GsrK085wi5Rf08Cfw4TklJfUa3EEm0jiRcAYODyM84bjypJcW+Pegx6jK/pkflWVlTpuolk0/bRM+KMHaBGjj8CVPqAw+ox+lN9Ju+Cu9T+X/lWVldJN8TBa/EWhdquUc5Bx584+vSl02pOhG12wfDOR9DxWVlGkp1YPNxtIH1PUd2wvFG/GCcFTwfNCPOhO8gPVJE/lYMPowB/OsrKHJFJ6DxycoqzdbdD7so+Dqy/mMj86snZG4ZAYzgg5IKsrc/I1lZS3J8WEkuSLCZ68+8VlZQrwGyKSehpZ6ysqygOaWhjLWVlWQ//2Q==" alt="">
+
+<h3>Üniversite yıllarımda hayranlıkla izlediğim dizi</h3>
+    
+
+
+</body>
+</html>
